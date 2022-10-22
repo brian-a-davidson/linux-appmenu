@@ -1,0 +1,62 @@
+title:CTS Applications Menu - Environment_Name :
+title:----------------------------------:
+A1:APPMON Start : /opt/cubic_appmenu/scripts/appmonitor_main.sh APPMON start_appmon
+A2:APPMON Stop : /opt/cubic_appmenu/scripts/appmonitor_main.sh APPMON stop_appmon
+A3:APPMON Status : /opt/cubic_appmenu/scripts/appmonitor_main.sh APPMON status_appmon
+::
+A4:APPMON-DB Start : /opt/cubic_appmenu/scripts/appmonitor_main.sh APPMONDB start_appmondb
+A5:APPMON-DB Stop : /opt/cubic_appmenu/scripts/appmonitor_main.sh APPMONDB stop_appmondb
+A6:APPMON-DB Status : /opt/cubic_appmenu/scripts/appmonitor_main.sh APPMONDB status_appmondb
+::
+B1:CPA Start : /opt/cubic_appmenu/scripts/appmenu_main.sh CPA start
+B2:CPA Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh CPA stop
+B3:CPA Status : /opt/cubic_appmenu/scripts/appmenu_main.sh CPA status
+::
+C1:CNG Start : /opt/cubic_appmenu/scripts/appmenu_main.sh CNG start
+C2:CNG Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh CNG stop
+C3:CNG Status: /opt/cubic_appmenu/scripts/appmenu_main.sh CNG status
+::
+D1:CDCS Start : /opt/cubic_appmenu/scripts/appmenu_main.sh CDCS start
+D2:CDCS Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh CDCS stop
+D3:CDCS Status: /opt/cubic_appmenu/scripts/appmenu_main.sh CDCS status
+::
+E1:EC Start : /opt/cubic_appmenu/scripts/appmenu_main.sh EC start
+E2:EC Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh EC stop
+E3:EC Status : /opt/cubic_appmenu/scripts/appmenu_main.sh EC status
+::
+H1:ClearingHouse Start : /opt/cubic_appmenu/scripts/appmenu_main.sh CCH start
+H2:ClearingHouse Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh CCH stop
+H3:ClearingHouse Status : /opt/cubic_appmenu/scripts/appmenu_main.sh CCH status
+::
+N1:NIS Start : /opt/cubic_appmenu/scripts/appmenu_main.sh NIS start
+N2:NIS Stop: /opt/cubic_appmenu/scripts/appmenu_main.sh NIS stop
+N3:NIS Status : /opt/cubic_appmenu/scripts/appmenu_main.sh NIS status
+::
+O1:OMS Start : /opt/cubic_appmenu/scripts/appmenu_main.sh OMS start
+O2:OMS Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh OMS stop
+O3:OMS Status : /opt/cubic_appmenu/scripts/appmenu_main.sh OMS status
+::
+P1:PAL Start : /opt/cubic_appmenu/scripts/appmenu_main.sh PAL start
+P2:PAL Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh PAL stop
+P3:PAL Status : /opt/cubic_appmenu/scripts/appmenu_main.sh PAL status
+::
+R1:PRODCAT Start : /opt/cubic_appmenu/scripts/appmenu_main.sh PRODCAT start
+R2:PRODCAT Stop : /opt/cubic_appmenu/scripts/appmenu_main.sh PRODCAT stop
+R3:PRODCAT Status : /opt/cubic_appmenu/scripts/appmenu_main.sh PRODCAT status
+::
+S2:NCS Application Kill : /opt/cubic_appmenu/scripts/ncs_main.sh NCS kill
+S3:NCS Application Status : /opt/cubic_appmenu/scripts/ncs_main.sh NCS status
+::
+W1:NCS Node Manager Start : /opt/cubic_appmenu/scripts/ncs_main.sh NMGR start_nmgr 
+W2:NCS Node Manager Kill : /opt/cubic_appmenu/scripts/ncs_main.sh NMGR kill
+W3:NCS Node Manager Status : /opt/cubic_appmenu/scripts/ncs_main.sh NMGR status
+::
+Y1:NCS Admin Console Start: /opt/cubic_appmenu/scripts/ncs_main.sh ADMC start_admc
+Y2:NCS Admin Console Kill: /opt/cubic_appmenu/scripts/ncs_main.sh ADMC kill
+Y3:NCS Admin Console Status: /opt/cubic_appmenu/scripts/ncs_main.sh ADMC status
+::
+VS:View status for all applications : /opt/cubic_appmenu/scripts/appstatus_config.sh
+::
+TM:Troubleshooting Menu : /opt/cubic_appmenu/logmenu.sh
+::
+X:Exit Appmenu

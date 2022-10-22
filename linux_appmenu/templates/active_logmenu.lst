@@ -1,0 +1,5 @@
+title:CTS Applications Menu - STAGING:
+title:----------------------------------:
+VS:View status for all applications : /opt/cubic_appmenu/scripts/appstatus_config.sh
+::
+X:Exit

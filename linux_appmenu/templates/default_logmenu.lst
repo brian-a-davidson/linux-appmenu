@@ -1,0 +1,41 @@
+title:CTS Applications Menu - Environment_Name:
+title:----------------------------------:
+B1:CPA Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh CPA log
+B2:CPA Thread Dump : /opt/cubic_appmenu/scripts/logmenu_main.sh CPA dump
+B3:CPA Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh CPA kill
+::
+C1:CNG Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh CNG log
+C2:CNG Thread Dump : /opt/cubic_appmenu/scripts/logmenu_main.sh CNG dump
+C3:CNG Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh CNG kill
+::
+D1:CDCS Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh CDCS log
+D2:CDCS Thread Dump : /opt/cubic_appmenu/scripts/logmenu_main.sh CDCS dump
+D3:CDCS Kill PID: /opt/cubic_appmenu/scripts/logmenu_main.sh CDCS kill
+::
+E1:EC Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh EC log
+E2:EC Thread Dump : /opt/cubic_appmenu/scripts/logmenu_main.sh EC dump
+E3:EC Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh EC kill
+::
+H1:ClearingHouse Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh CCH log
+H2:ClearingHouse Thread Dump: /opt/cubic_appmenu/scripts/logmenu_main.sh CCH dump
+H3:ClearingHouse Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh CCH kill
+::
+N1:NIS Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh NIS log
+N2:NIS Thread Dump: /opt/cubic_appmenu/scripts/logmenu_main.sh NIS dump
+N3:NIS Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh NIS kill
+::
+O1:OMS Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh OMS log
+O2:OMS Thread Dump: /opt/cubic_appmenu/scripts/logmenu_main.sh OMS dump
+O3:OMS Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh OMS kill
+::
+P1:PAL Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh PAL log
+P2:PAL Thread Dump: /opt/cubic_appmenu/scripts/logmenu_main.sh PAL dump
+P3:PAL Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh PAL kill
+::
+R1:PRODCAT Display Log : /opt/cubic_appmenu/scripts/logmenu_main.sh PRODCAT log
+R2:PRODCAT Thread Dump: /opt/cubic_appmenu/scripts/logmenu_main.sh PRODCAT dump
+R3:PRODCAT Kill PID : /opt/cubic_appmenu/scripts/logmenu_main.sh PRODCAT kill
+::
+VS:View status for all applications : /opt/cubic_appmenu/scripts/appstatus_config.sh
+::
+X:Exit

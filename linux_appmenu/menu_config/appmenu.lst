@@ -1,0 +1,16 @@
+title:CTS Applications Menu - STAGING :
+title:----------------------------------:
+S2:NCS Application Kill : /opt/cubic_appmenu/scripts/ncs_main.sh NCS kill
+S3:NCS Application Status : /opt/cubic_appmenu/scripts/ncs_main.sh NCS status
+::
+W1:NCS Node Manager Start : /opt/cubic_appmenu/scripts/ncs_main.sh NMGR start_nmgr 
+W2:NCS Node Manager Kill : /opt/cubic_appmenu/scripts/ncs_main.sh NMGR kill
+W3:NCS Node Manager Status : /opt/cubic_appmenu/scripts/ncs_main.sh NMGR status
+::
+Y1:NCS Admin Console Start: /opt/cubic_appmenu/scripts/ncs_main.sh ADMC start_admc
+Y2:NCS Admin Console Kill: /opt/cubic_appmenu/scripts/ncs_main.sh ADMC kill
+Y3:NCS Admin Console Status: /opt/cubic_appmenu/scripts/ncs_main.sh ADMC status
+::
+VS:View status for all applications : /opt/cubic_appmenu/scripts/appstatus_config.sh
+::
+X:Exit Appmenu
